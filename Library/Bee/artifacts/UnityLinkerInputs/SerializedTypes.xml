@@ -1,0 +1,5 @@
+<linker>
+	<assembly fullname="Mirror">
+		<type fullname="Mirror.SnapshotInterpolationSettings" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
